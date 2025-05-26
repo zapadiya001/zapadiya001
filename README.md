@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zapadiya001/zapadiya001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Haresh, a passionate learner diving into the world of **Machine Learning** 🤖.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring various ML projects and concepts
+- 🧠 Fascinated by how machines can learn and make decisions
+- 💡 Always curious and eager to grow my knowledge
+- 📈 Currently working on beginner and intermediate ML projects using Python and Scikit-learn
+- ⚡ Fun fact: I love turning data into insights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My Current Focus
+- Supervised learning algorithms (like Linear Regression, Decision Trees, and SVM)
+- Data visualization and EDA
+- Model evaluation techniques
+- Real-world datasets from Kaggle and UCI
+
+### 📌 Projects I'm Working On
+- 🔄 Fake News Detection (NLP)
+
+### 📫 How to reach me
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: dzapadiya83@gmail.com
+
+Thanks for visiting! 🌟
