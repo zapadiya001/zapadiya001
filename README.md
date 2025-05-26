@@ -15,6 +15,7 @@ I'm Haresh, a passionate learner diving into the world of **Machine Learning** �
 - Real-world datasets from Kaggle and UCI
 
 ### 📌 Projects I'm Working On
+- 🏠 House Price Prediction
 - 🔄 Fake News Detection (NLP)
 
 ### 📫 How to reach me
