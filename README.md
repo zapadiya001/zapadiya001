@@ -19,7 +19,7 @@ I'm Haresh, a passionate learner diving into the world of **Machine Learning** �
 - 🔄 Fake News Detection (NLP)
 
 ### 📫 How to reach me
-- GitHub: https/github.com/zapadiya001
+- GitHub: [https/github.com/zapadiya001](https://github.com/zapadiya001)
 - Email: dzapadiya83@gmail.com
 
 Thanks for visiting! 🌟
